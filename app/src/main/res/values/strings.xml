@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="sign_in_account">Sign In to your \nAccount</string>
+    <string name="register_text">Register Now</string>
+    <string name="create_an_account">Create an \nAccount</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="contact">Contact</string>
+    <string name="password">Password</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="sign_in">Sign In</string>
+    <string name="url">https://saurav.tech/NewsAPI/top-headlines/category/health/in.json</string>
+
+
+    <string name="facebook_app_id">3390220191254529</string>
+    <string name="fb_login_protocol_scheme">fb3390220191254529</string>
+    <string name="facebook_client_token">56789</string>
+
+
+
+
+</resources>
